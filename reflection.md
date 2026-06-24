@@ -47,11 +47,15 @@ I explained certain logic within the orginal code to me so i correctly understoo
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
 
+
 ---
 
 ## 5. Looking ahead: your developer habits
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
+  One habit i want to continue using is asking ai to explain its own reasoning behind chnages it wants to implement.
 - What is one thing you would do differently next time you work with AI on a coding task?
+next time i would definitely be more specfific in how i ask the ai to help fix code
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+it showed me that AI while advanced, still makes many errors and if not guided correctly AI can actually over complicate projects.

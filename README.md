@@ -36,11 +36,11 @@ Chnaged the logic and data handiling
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. <choose normal diffucuilty>
+2. <guess 25>
+3. <game responds go lower>>
+4. <guess 15>
+5. <correct guess, game displays congratulation winner screen>>
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
