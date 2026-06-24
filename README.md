@@ -26,8 +26,11 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+Game genrates a random number based on selected difficulty, user guesses the number according to game given hints
 - [ ] Detail which bugs you found.
+Found that the diffficulty did not accurately display and that the hints were not correct
 - [ ] Explain what fixes you applied.
+Chnaged the logic and data handiling
 
 ## 📸 Demo Walkthrough
 
